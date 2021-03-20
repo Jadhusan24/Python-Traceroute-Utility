@@ -6,6 +6,8 @@
 
 ## Background Information
 
+![WinVer](./Screenshots/bg.jpg)
+
 TTL stands for Time To Live. When a TCP packet is sent, its TTL is set, which is the number   <br />
 of routers (hops) it can pass through before the packet is discarded. As the packet passes    <br />
 through a router the TTL is decremented until, when the TTL reaches zero, the packet is       <br />
