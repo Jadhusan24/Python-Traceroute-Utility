@@ -36,10 +36,10 @@ Finally, packet paths may not be the same coming and going.                     
 
 ### Example                           
 
-Router 1# traceroute 34.0.0.4 <b/>
-Type escape sequence to abort.  <b/>
-Tracing the route to 34.0.0.4   <b/>
- 1 12.0.0.2 4 msec 4 msec 4 msec    <b/>
- 2 23.0.0.3 20 msec 16 msec 16 msec <b/>
- 3 34.0.0.4 16 msec * 16 msec   <b/>
+Router 1# traceroute 34.0.0.4 <br/>
+Type escape sequence to abort.  <br/>
+Tracing the route to 34.0.0.4   <br/>
+ 1 12.0.0.2 4 msec 4 msec 4 msec    <br/>
+ 2 23.0.0.3 20 msec 16 msec 16 msec <br/>
+ 3 34.0.0.4 16 msec * 16 msec   <br/>
 
