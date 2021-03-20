@@ -35,10 +35,11 @@ completed trace). Response times vary depending on network usage. Additionally, 
 Finally, packet paths may not be the same coming and going.                                       <br />
 
 ### Example                           
-Router 1# traceroute 34.0.0.4
-Type escape sequence to abort.
-Tracing the route to 34.0.0.4
- 1 12.0.0.2 4 msec 4 msec 4 msec
- 2 23.0.0.3 20 msec 16 msec 16 msec
- 3 34.0.0.4 16 msec * 16 msec
+
+Router 1# traceroute 34.0.0.4 <b/>
+Type escape sequence to abort.  <b/>
+Tracing the route to 34.0.0.4   <b/>
+ 1 12.0.0.2 4 msec 4 msec 4 msec    <b/>
+ 2 23.0.0.3 20 msec 16 msec 16 msec <b/>
+ 3 34.0.0.4 16 msec * 16 msec   <b/>
 
