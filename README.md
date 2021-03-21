@@ -39,6 +39,7 @@ completed trace). Response times vary depending on network usage. Additionally, 
 "time exceeded" message requires more computational time than routing a packet onwards.           <br />
 Finally, packet paths may not be the same coming and going.                                       <br />
 
+
 ### Example                           
 
 Router 1# traceroute 34.0.0.4 <br/>
