@@ -3,7 +3,9 @@
 
 ## [Reference?](https://www.cisco.com/c/en/us/support/docs/ios-nx-os-software/ios-software-releases-121-mainline/12778-ping-traceroute.html)
 
-## TESTED WITH ;
+[![LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jadhusan24/)
+
+## _TESTED WITH ;_
 
 ![WinVer](./Screenshots/1.JPG) ![WinVer](./Screenshots/2.JPG)
 
