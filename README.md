@@ -2,7 +2,9 @@
     This illustrates the use of traceroute command
 
 ## [Reference?](https://www.cisco.com/c/en/us/support/docs/ios-nx-os-software/ios-software-releases-121-mainline/12778-ping-traceroute.html)
-        Traceroute and tracert are computer network diagnostic commands for displaying possible routes and measuring transit delays of packets across an Internet Protocol network
+   
+   Traceroute and tracert are computer network diagnostic commands for displaying possible routes and 
+   measuring transit delays of packets across an Internet Protocol network
 
 
 [![LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jadhusan24/)
