@@ -13,6 +13,29 @@
 
 ![WinVer](./Screenshots/1.JPG) ![WinVer](./Screenshots/2.JPG)
 
+-----------------------------------
+###       W I N D O W S
+-----------------------------------
+Excute this program using WSL
+- open WSL Terminal
+- navigate to  file path
+- type the following command
+>python ping.py www.github.com  <br/>
+>python ping.py 8.8.8.8 <br/>
+-----------------------------------
+###         L I N U X
+-----------------------------------
+- open terminal
+- navigate to file path
+- type the following command
+>sudo python3 ping.py www.github.com  <br/>
+>sudo python3 ping.py 8.8.8.8 <br/>
+
+### NOTE
+- Run using **Sudo** privilege              - **LINUX**
+- Run using **Administration** privilege        - **WINDOWS**
+
+
 ## Background Information
 
 ![WinVer](./Screenshots/bg.jpg)
@@ -58,4 +81,16 @@ Tracing the route to 34.0.0.4   <br/>
  2 23.0.0.3 20 msec 16 msec 16 msec <br/>
  3 34.0.0.4 16 msec * 16 msec   <br/>
 
-### RESULT
+### Output
+
+ - Ip Address
+
+  ![Screenshots](./Screenshots/result1.jpg)
+  ![](./Screenshots/result1.gif)
+
+
+- Domain name
+ 
+ ![Screenshots](./Screenshots/result2.jpg)
+ 
+
