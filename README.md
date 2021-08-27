@@ -20,20 +20,21 @@ Excute this program using WSL
 - open WSL Terminal
 - navigate to  file path
 - type the following command
->python ping.py www.github.com  <br/>
->python ping.py 8.8.8.8 <br/>
+>python tracert.py www.google.com  <br/>
+>python tracert.py 8.8.8.8 <br/>
 -----------------------------------
 ###         L I N U X
 -----------------------------------
 - open terminal
 - navigate to file path
 - type the following command
->sudo python3 ping.py www.github.com  <br/>
->sudo python3 ping.py 8.8.8.8 <br/>
+>sudo python3 tracert.py www.google.com  <br/>
+>sudo python3 tracert.py 8.8.8.8 <br/>
 
 ### NOTE
 - Run using **Sudo** privilege              - **LINUX**
 - Run using **Administration** privilege        - **WINDOWS**
+- Use **-h** for help
 
 
 ## Background Information
