@@ -17,7 +17,7 @@
 ###       W I N D O W S
 -----------------------------------
 Excute this program using WSL
-- open WSL Terminal
+- open CMD
 - navigate to  file path
 - type the following command
 >python tracert.py www.google.com  <br/>
