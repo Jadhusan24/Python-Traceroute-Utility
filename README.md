@@ -94,4 +94,10 @@ Tracing the route to 34.0.0.4   <br/>
  
  ![Screenshots](./Screenshots/result2.jpg)
  
-
+- root permission
+ 
+ ![Screenshots](./Screenshots/err.jpg)
+ 
+ - Help
+ 
+ ![Screenshots](./Screenshots/help.jpg)
