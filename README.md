@@ -84,13 +84,13 @@ Tracing the route to 34.0.0.4   <br/>
 
 ### Output
 
- - Ip Address
+ - Domain name
 
   ![Screenshots](./Screenshots/result1.jpg)
   ![](./Screenshots/result1.gif)
 
 
-- Domain name
+- Ip Address
  
  ![Screenshots](./Screenshots/result2.jpg)
  
